@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerALL">
+        <item>Random</item>
+        <item>Ragnarok</item>
+        <item>Guild Wars</item>
+        <item>Player vs. Player</item>
+
+    </string-array>
+
+    <string-array name="spinnerNONE">
+        <item>Player vs. Player</item>
+
+    </string-array>
+
+    <string-array name="spinnerRAG">
+        <item>Random</item>
+        <item>Ragnarok</item>
+        <item>Player vs. Player</item>
+
+    </string-array>
+    <string-array name="spinnerGW">
+        <item>Random</item>
+        <item>Guild Wars</item>
+        <item>Player vs. Player</item>
+
+    </string-array>
+</resources>
