@@ -28,7 +28,7 @@
     <string name="guild_wars">Guild Wars</string>
     <string name="it_s_a_kind_of_magic">It\'s a Kind of Magic</string>
     <string name="kickstarter">KickStarter</string>
-    <string name="ragnorok">Ragnorok</string>
+    <string name="ragnorok">Ragnarok</string>
     <string name="settings">SETTINGS</string>
     <string name="save">SAVE</string>
     <string name="use_spells_instead_of_defences">Use Spells instead of Defenses</string>
@@ -44,4 +44,5 @@
     <string name="textview">TextView</string>
     <string name="help">HELP</string>
     <string name="helpy">HELP</string>
+    <string name="HelpText"></string>
 </resources>
